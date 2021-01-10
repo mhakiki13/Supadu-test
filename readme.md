@@ -3,9 +3,9 @@ Supadu Test
 
 How to run
 --------------
-You need a PHP server locally or hosted to be able to view the webpage. If you have PHP installed locally you can run a temp server using the following command: 
+You need a PHP server locally or hosted to be able to view the webpage. If you have PHP installed locally you can run a temp server using the following commands from the terminal: 
 
-php -S localhost:3000
+**php -S localhost:3000** (Make sure you do this from the root).
 
 You may change port '3000' to your desired one.
 
