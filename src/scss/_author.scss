@@ -1,0 +1,16 @@
+.author{
+    text-align: center;
+    .author_wrap{
+        .author_img{
+            width: 50px;
+            border-radius: 50%;
+            display: inline-block;
+        }
+        .author_name{
+            color: #7c878e;
+            display: inline-block;
+            margin-left: 20px;
+            font-size: 18px;
+        }
+    }
+}

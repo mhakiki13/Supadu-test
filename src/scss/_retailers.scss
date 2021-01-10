@@ -1,0 +1,14 @@
+.retailers{
+    .retailers_link{
+        padding: 20px;
+        border-bottom: solid 1px #dbdbdb;
+        display: block;
+        position: relative;
+        &:after{
+            content: '>';
+            position: absolute;
+            right: 20px;
+            color: #990f3d;
+        }
+    }
+}

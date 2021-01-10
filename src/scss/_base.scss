@@ -1,0 +1,13 @@
+body{
+    background-color: #fff1e6;
+    .main-container{
+        background-color: #fff;
+        padding: 40px;
+        max-width: 970px;
+        section{
+            &.section{
+               margin-bottom: 40px;
+            }
+        }
+    }
+}

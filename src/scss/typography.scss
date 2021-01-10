@@ -1,0 +1,28 @@
+body{
+    font-family: "Playfair Display",serif;
+    font-size: 16px;
+}
+h1, h2, h3, h4, h5, h6, p{
+    font-family: "Playfair Display",serif;
+    &.is-red{
+        color: #990f3d;
+    }
+}
+h1{
+    font-weight: 700;
+    font-size: 34px;
+}
+h2{
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 36px;
+}
+p{
+    font-size: 16px;
+    line-height: 26px;
+    font-size: 16px;
+    &.is-lg{
+        font-size: 20px;
+        line-height: 30px;
+    }
+}

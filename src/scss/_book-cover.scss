@@ -1,0 +1,9 @@
+.book-cover{
+    .book-cover_img{
+        width: 100%;
+        max-width: 400px;
+    }
+    @media only screen and (max-width: 767px) {
+        text-align: center;
+    }
+}
